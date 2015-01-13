@@ -21,28 +21,30 @@ Why?
 ====
 
 Like the famous bridgekeeper in Monty Python, ask about your quest:
+
 * Do you wish to build a website? (Web)
 * Or analyze data and make visualizations? (Data science)
 * Or teach a classroom of high school math students? (Education)
 * Or create a game? (Games)
 * Or a mobile application? (Mobile)
 * Or analyze the air speed velocity of an Unladen Swallow? Or a drone flying
-across town? (Science)
+  across town? (Science)
 
 
 Who
 ===
 
 We're all different so let's first decide what appeals most to you:
+
 * Free and easy - just web please - no local installation
 
 * Point and click install - I don't want to program. I just want to use a cool
-library that has a function that will help me.
+  library that has a function that will help me.
 
 * Middle of the Road - Command line is fine but I want to keep it simple
 
 * Understand what is happening to my system - not that I don't trust you but
-I want to be in control of my system
+  I want to be in control of my system
 
 * Dotfiles and command line are awesome.
 
