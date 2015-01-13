@@ -16,6 +16,8 @@ Like a good journalist, we have questions:
 * How?
 * When?
 
+Initially, we will focus on just getting Python installed or accessible.
+
 
 Why?
 ====
@@ -51,4 +53,37 @@ We're all different so let's first decide what appeals most to you:
 
 What? Flavors of Python
 =======================
+CPython (aka what most folks call Python)
+PyPy
+Jython
+Brython
+Bundles (Anaconda, Enthought, ActiveState and others)
 
+Versions 2, 3, or both
+
+
+When?
+=====
+Now
+Down the road releases
+Security fixes
+
+
+Where?
+======
+
+Web
+Linux
+Mac OS X
+Windows
+Others [ChromeOS, Mobile (iOS and Android)]
+
+
+How?
+====
+
+One version - one place:
+Version 2 and Version 3 on same computer:
+Web
+Docker containers
+Anaconda and CPython (conda and pip playing nicely)
