@@ -15,7 +15,9 @@ Contents:
    inspiration
    variety
    expectations
-   pyenv
+   tools/index
+   tools/pyenv
+   helpfuldocs
 
 
 Indices and tables
