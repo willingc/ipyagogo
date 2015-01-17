@@ -16,6 +16,7 @@ Contents:
    variety
    expectations
    tools/index
+   tools/overview
    tools/pyenv
    helpfuldocs
 
